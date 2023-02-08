@@ -1,4 +1,4 @@
-package ru.yandex.practicum.catsgram.ManualJdbcConnectService;
+package ru.yandex.practicum.catsgram.manualJdbcConnectService;
 
 //import org.springframework.jdbc.core.JdbcTemplate;
 //import org.springframework.jdbc.datasource.DriverManagerDataSource;
